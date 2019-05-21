@@ -6,7 +6,7 @@
             "lastName": "Widodo",
             "email": "joko@mail.com",
             "age": "56",
-            "companyId": "1"
+            "partyId": "1"
         },
         {
             "id": "2",
@@ -14,7 +14,7 @@
             "lastName": "Subianto",
             "email": "prabowo@mail.com",
             "age": "66",
-            "companyId": "2"
+            "partyId": "2"
         },
         {
             "id": "3",
@@ -22,7 +22,7 @@
             "lastName": "Tanoe",
             "email": "mega@mail.com",
             "age": "57",
-            "companyId": "3"
+            "partyId": "3"
         }
     ],
     "parties": [

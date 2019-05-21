@@ -1,0 +1,45 @@
+{
+    "leaders": [
+        {
+            "id": "1",
+            "firstName": "Joko",
+            "lastName": "Widodo",
+            "email": "joko@mail.com",
+            "age": "56",
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "firstName": "Prabowo",
+            "lastName": "Subianto",
+            "email": "prabowo@mail.com",
+            "age": "66",
+            "companyId": "2"
+        },
+        {
+            "id": "3",
+            "firstName": "Hari",
+            "lastName": "Tanoe",
+            "email": "mega@mail.com",
+            "age": "57",
+            "companyId": "3"
+        }
+    ],
+    "parties": [
+        {
+            "id": "1",
+            "name": "PDIP",
+            "description": "Partai Demokrasi Indonesia Perjuangan (PDI-Perjuangan) adalah sebuah partai politik di Indonesia. Lahirnya PDI-P dapat dikaitkan dengan peristiwa 27 Juli 1996. Dampak politik dari peristiwa ini adalah tampilnya Megawati Soekarnoputri di kancah perpolitikan nasional. Walaupun sebelum peristiwa ini Megawati tercatat sebagai Ketua Umum Partai Demokrasi Indonesia dan anggota Komisi I DPR, namun setelah peristiwa inilah, namanya dikenal di seluruh Indonesia"
+        },
+        {
+            "id": "2",
+            "name": "Gerindra",
+            "description": "Partai Gerakan Indonesia Raya Ketua umum Prabowo Subianto Sekretaris jenderal Ahmad MuzaniKetua fraksi di DPR Edhy Prabowo Didirikan 6 Februari 2008"
+        },
+        {
+            "id": "3",
+            "name": "Perindo",
+            "description": "Partai Persatuan Indonesia atau biasa disingkat Partai Perindo adalah sebuah partai politik di Indonesia. Partai ini didirikan oleh Hary Tanoesoedibjo, pengusaha dan pemilik MNC Group, sebuah perusahaan yang bergerak dalam bidang media."
+        }
+    ]
+}

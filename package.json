@@ -1,0 +1,14 @@
+{
+  "name": "testing-json-server",
+  "version": "1.0.0",
+  "description": "Testing json server",
+  "main": "index.js",
+  "scripts": {
+    "json:serve": "json-server --watch db.json"
+  },
+  "author": "Andika Erwansyah",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
